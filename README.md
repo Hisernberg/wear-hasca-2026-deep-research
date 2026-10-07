@@ -68,7 +68,13 @@ docs/
 ├── 04-techniques-matrix.md        ← 45+ techniques: improves ✅ / hurts ❌ / risky ⚠️ with evidence
 ├── 05-bugs-setbacks-lessons.md    ← the bug hall of fame: official video bug, leaks, fake timelines, …
 ├── 06-improvement-plan.md         ← Track A algorithmic · Track B LLM · Track C engineering · Track D meta
-└── 07-roadmap.md                  ← prioritized 4-week execution plan + validation protocol
+├── 07-roadmap.md                  ← prioritized 4-week execution plan + validation protocol
+└── 08-battle-plan-tomorrow.md     ← Operation Beat-Anonym: 10-submission ladder to 0.9454+
+
+code/
+└── wear_ensemble_toolkit.py       ← Kaggle-ready: OOF-tuned geo-mean ensemble, label voting,
+                                      per-class bias ascent, anchored video override, Sinkhorn counts,
+                                      manifests (smoke-tested)
 
 artifacts/
 ├── leaderboard_public_top97.csv   ← full public LB snapshot (rank|team|score|entries)
